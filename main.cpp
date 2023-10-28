@@ -10,6 +10,7 @@ int main()
     v1.setY(1.);             
     double x1 = v1.getX();
     double y1 = v1.getY();
+    
     v1.print();
 
     Wektor2D v2{2., 2.};
