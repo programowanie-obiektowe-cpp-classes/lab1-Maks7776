@@ -1,5 +1,6 @@
 #define CATCH_CONFIG_MAIN
-#include "catch.hpp"
+
+#include "include/catch.hpp"
 
 #include <type_traits>
 
